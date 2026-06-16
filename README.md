@@ -51,38 +51,40 @@ An intelligent **AI/ML-powered real-time gym trainer** that monitors your workou
 - Shoulder Press  
 - Lunges  
 
----
-C:\Users\krish\OneDrive\Desktop\PrimeAIML\ML_Projects\AI-Realtime-GYM-Coach-LandingPage\IMGs\i1.png
-C:\Users\krish\OneDrive\Desktop\PrimeAIML\ML_Projects\AI-Realtime-GYM-Coach-LandingPage\IMGs\i2.png
-C:\Users\krish\OneDrive\Desktop\PrimeAIML\ML_Projects\AI-Realtime-GYM-Coach-LandingPage\IMGs\i3.png
-C:\Users\krish\OneDrive\Desktop\PrimeAIML\ML_Projects\AI-Realtime-GYM-Coach-LandingPage\IMGs\i4.png
-C:\Users\krish\OneDrive\Desktop\PrimeAIML\ML_Projects\AI-Realtime-GYM-Coach-LandingPage\IMGs\i5.png
-C:\Users\krish\OneDrive\Desktop\PrimeAIML\ML_Projects\AI-Realtime-GYM-Coach-LandingPage\IMGs\i6.png
+<img width="1375" height="784" alt="Gemini_Generated_Image_3eo86d3eo86d3eo8" src="https://github.com/user-attachments/assets/e97fe145-50ae-4595-bb22-f8ec45550baa" />
+<img width="1356" height="768" alt="Gemini_Generated_Image_9cguvu9cguvu9cgu" src="https://github.com/user-attachments/assets/ab8b63f9-686a-482b-9985-4938b0ee2207" />
+<img width="1363" height="768" alt="Gemini_Generated_Image_hukilnhukilnhuki" src="https://github.com/user-attachments/assets/819a08c1-e319-424d-86fe-9f76a33d8321" />
+
+
+
+
+
+
 
 ---
 Project Structure :
 
-AI-Realtime-GYM-Coach/
-│
-├── main.py
-├── requirements.txt
-├── .gitignore
-├── .env (not pushed)
-│
-├── services/
-│   ├── vision/
-│   │   └── exercise_video_processor.py
-│   ├── coaching/
-│   │   ├── llm.py
-│   │   ├── tts.py
-│   │   └── voice_pipeline.py
-│   ├── tracking/
-│   ├── persistence/
-│   ├── ui/
-│
-├── static/
-├── ml_models/
-└── core/
+        AI-Realtime-GYM-Coach/
+        │
+        ├── main.py
+        ├── requirements.txt
+        ├── .gitignore
+        ├── .env (not pushed)
+        │
+        ├── services/
+        │   ├── vision/
+        │   │   └── exercise_video_processor.py
+        │   ├── coaching/
+        │   │   ├── llm.py
+        │   │   ├── tts.py
+        │   │   └── voice_pipeline.py
+        │   ├── tracking/
+        │   ├── persistence/
+        │   ├── ui/
+        │
+        ├── static/
+        ├── ml_models/
+        └── core/
 
 ---
 
