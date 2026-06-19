@@ -53,31 +53,45 @@ An intelligent **AI/ML-powered real-time gym trainer** that monitors your workou
 
 
 ---
+<img width="947" height="439" alt="Screenshot 2026-06-16 165827" src="https://github.com/user-attachments/assets/8efcf354-d9c7-4b3c-bf95-b9f427592d1e" />
+<img width="950" height="436" alt="Screenshot 2026-06-16 141749" src="https://github.com/user-attachments/assets/9e59f404-181a-4f62-abdb-ea7c843eb73d" />
+<img width="952" height="436" alt="Screenshot 2026-06-16 141232" src="https://github.com/user-attachments/assets/a2e5210e-dbfa-4158-9379-e82cfc3b15a4" />
+<img width="952" height="440" alt="Screenshot 2026-06-16 140933" src="https://github.com/user-attachments/assets/d4f1b32a-1d19-4953-b2f5-6f987477b80a" />
+<img width="952" height="440" alt="Screenshot 2026-06-16 140933" src="https://github.com/user-attachments/assets/156cc993-6472-4f6f-b868-3a1fd4d6d780" />
+
+
+
+
+
+
+
+
+
 Project Structure :
 
-        AI-Realtime-GYM-Coach/
-        │
-        ├── main.py
-        ├── requirements.txt
-        ├── .gitignore
-        ├── .env (not pushed)
-        │
-        ├── services/
-        │   ├── vision/
-        │   │   └── exercise_video_processor.py
-        │   ├── coaching/
-        │   │   ├── llm.py
-        │   │   ├── tts.py
-        │   │   └── voice_pipeline.py
-        │   ├── tracking/
-        │   ├── persistence/
-        │   ├── ui/
-        │
-        ├── static/
-        ├── ml_models/
-        └── core/
-
----
+                        AI-Realtime-GYM-Coach/
+                        │
+                        ├── main.py
+                        ├── requirements.txt
+                        ├── .gitignore
+                        ├── .env (not pushed)
+                        │
+                        ├── services/
+                        │   ├── vision/
+                        │   │   └── exercise_video_processor.py
+                        │   ├── coaching/
+                        │   │   ├── llm.py
+                        │   │   ├── tts.py
+                        │   │   └── voice_pipeline.py
+                        │   ├── tracking/
+                        │   ├── persistence/
+                        │   ├── ui/
+                        │
+                        ├── static/
+                        ├── ml_models/
+                        └── core/
+                
+                ---
 
 python -m venv venv
 venv\Scripts\activate   # Windows
