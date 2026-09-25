@@ -1,5 +1,14 @@
 Project Setup (Python env, requirements, .env, first run)
 
+-------------------------------------------------------------------------------------
+
+the pipeline is:
+📷 Camera → 🎞️ Frame → 🧍 MediaPipe → 📍 Landmarks → 📐 Angles → 🔢 Rep Counting → 🤖 Feedback
+
+MediaPipe Pose in your exercise platform, the pretrained model is the MediaPipe Pose Landmarker model.
+
+---------------------------------------------------------------------------------------
+
 STEP 1: Create Project Folder
 
 mkdir folder-name
